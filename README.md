@@ -13,6 +13,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/0020-valid-parentheses/) | Easy |
+| [0392-is-subsequence](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/0392-is-subsequence/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/2414-length-of-the-longest-alphabetical-continuous-substring/) | Medium |
 ## String Matching
@@ -61,4 +62,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/0392-is-subsequence/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/0392-is-subsequence/) | Easy |
 <!---LeetCode Topics End-->
