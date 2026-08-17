@@ -11,6 +11,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/0020-valid-parentheses/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/1408-string-matching-in-an-array/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -45,4 +46,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
