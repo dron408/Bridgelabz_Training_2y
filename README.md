@@ -14,6 +14,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/0020-valid-parentheses/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/1408-string-matching-in-an-array/) | Easy |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/2414-length-of-the-longest-alphabetical-continuous-substring/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
