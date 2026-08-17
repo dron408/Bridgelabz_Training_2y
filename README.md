@@ -15,6 +15,7 @@
 | [0020-valid-parentheses](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/0020-valid-parentheses/) | Easy |
 | [0392-is-subsequence](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/0392-is-subsequence/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/1408-string-matching-in-an-array/) | Easy |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/2414-length-of-the-longest-alphabetical-continuous-substring/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -70,4 +71,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/0392-is-subsequence/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 <!---LeetCode Topics End-->
