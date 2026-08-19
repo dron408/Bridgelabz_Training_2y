@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/0014-longest-common-prefix/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0162-find-peak-element](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/0162-find-peak-element/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1051-height-checker](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/1122-relative-sort-array/) | Easy |
@@ -91,4 +92,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/0014-longest-common-prefix/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0162-find-peak-element](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/0162-find-peak-element/) | Medium |
 <!---LeetCode Topics End-->
