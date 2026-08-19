@@ -9,6 +9,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1051-height-checker](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/1122-relative-sort-array/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 ## String
@@ -29,6 +30,7 @@
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [1122-relative-sort-array](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/1122-relative-sort-array/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -40,6 +42,7 @@
 | ------- | ------- |
 | [1051-height-checker](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/1122-relative-sort-array/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/dron408/Bridgelabz_Training_2y/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
